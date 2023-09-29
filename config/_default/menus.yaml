@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 5f8494e3-f7d8-bb14-632a-6f70b464f95c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 445d1649-30e4-ad45-780d-dfab67887820
+  name: Forging
+  pageRef: /pages/forging/
+  weight: 20
+- identifier: dd3c6013-b987-e7a0-6622-68fb11688a6a
+  name: Casting
+  pageRef: /pages/casting
+  weight: 30
+- identifier: b317d232-7cc6-6820-6c4b-6116b31af7bc
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 40
+- identifier: 1f660ce8-e59a-591c-aedb-de78edd21c48
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
